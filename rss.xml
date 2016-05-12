@@ -4,21 +4,21 @@
         <description><![CDATA[The future of the urban waterways is happening now]]></description>
         <link>https://thegrid.ai/liquid-city/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 15:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 18:48:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/liquid-city/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Liquid City]]></title>
+            <description><![CDATA[<article><h1>Liquid City</h1><p>Liquid City is a multi phase project investigating urban waterways by artist Eve Mosher.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8349b792-d82f-45fe-a28d-ee1619880880.jpg"></article>]]></description>
+            <link>https://thegrid.ai/liquid-city/liquid-city-is-a-multi-phase-project-investigating-urban-wat/index.html</link>
+            <guid isPermaLink="false">17a952fd-d14e-40b0-b950-b57717c0b305</guid>
+            <pubDate>Thu, 12 May 2016 18:48:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I've been working on mapping the existing system of the waterways, here's the in progress: </p>]]></description>
             <link>https://thegrid.ai/liquid-city/ive-been-working-on-mapping-the-existing-system-of-the-wate/index.html</link>
             <guid isPermaLink="false">2908834b-d073-4224-aa58-04e755572255</guid>
             <pubDate>Wed, 11 May 2016 15:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Liquid City is a multi phase project investigating urban waterways by artist Eve Mosher.</p>]]></description>
-            <link>https://thegrid.ai/liquid-city/liquid-city-is-a-multi-phase-project-investigating-urban-wat/index.html</link>
-            <guid isPermaLink="false">17a952fd-d14e-40b0-b950-b57717c0b305</guid>
-            <pubDate>Wed, 11 May 2016 14:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
